@@ -28,10 +28,7 @@ errHandler:
             UserSortInput
         
         End If
-    End If
-    
-    
-   
+    End If  
 
 End Sub
 
